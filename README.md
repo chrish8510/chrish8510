@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chrish8510
+- 👋 Hi, I’m Christine
 - 👀 I’m interested in ... Web Development
 - 🌱 I’m currently learning ... React, and I'm planning to learn Node
 - 💞️ I’m looking to collaborate on ... Web Development
